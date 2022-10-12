@@ -2,5 +2,5 @@
 
 | Проект | Задачи проекта | Стэк технологий |
 | ------ | -------- | -------- |
-| Текст  | Текст    | Текст    |
-| Текст  | Текст    | Текст    |
+| [Определение стоимости автомобиля](https://github.com/EvgeniyLukashin91/Portfolio/tree/main/Car_prices#markdown-title-id) | Подготовка моедли для опредения стоимости автомобиля по его описанию   | python, pandas, numpy, seaborn, matplotlib, scikit-learn, category_encoders, lightgbm, catboost, time |
+| Текст  | Текст    | Текст    | 
