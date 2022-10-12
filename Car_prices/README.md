@@ -7,8 +7,11 @@
 - качество предсказания;
 - скорость предсказания;
 - время обучения.
+## Библиотеки
 
-## В ходе работы были выполнены следующие этапа:
+python, pandas, numpy, seaborn, matplotlib, scikit-learn, category_encoders, lightgbm, catboost, time
+
+## Этапы работы:
 
 - Подготовка данных и EDA: 
     - чтение файлов
